@@ -2,10 +2,8 @@
   <img src="https://cdn.jsdelivr.net/gh/VeilData/.github@main/assets/VeilDataLogo.png" width="96" alt="VeilData logo" />
 </p>
 
-<h2 align="center">VeilData</h2>
-
 <p align="center">
-  <strong>Privacy-first data infrastructure for AI-driven teams.</strong><br>
+  <strong>VeilData is a privacy-first data infrastructure for AI-driven teams.</strong><br>
   Redaction. Governance. Control. Built for the next generation of intelligent systems.
 </p>
 
